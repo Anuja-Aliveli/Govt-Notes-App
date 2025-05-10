@@ -5,6 +5,7 @@ CHAR_LONG_LIMIT = 150
 CHAR_VERY_LONG_LIMIT = 255
 
 # Models Related Names
+SUBJECT_CATEGORY = 'subject_category'
 SUBJECTS_TOPICS = 'subjects_topics'
 TOPICS_SUBTOPICS = 'topics_subtopics'
 CONTENT_MAPPINGS = 'content_mappings'

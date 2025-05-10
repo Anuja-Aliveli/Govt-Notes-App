@@ -3,3 +3,4 @@ from GovtNotesManager.Models.TopicsModel import Topics
 from GovtNotesManager.Models.SubtopicsModel import Subtopics
 from GovtNotesManager.Models.ContentMappingModel import ContentMapping
 from GovtNotesManager.Models.ContentTextModel import ContentText
+from GovtNotesManager.Models.SubjectCategoryModel import SubjectCategory
